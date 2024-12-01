@@ -6,4 +6,5 @@ Andrés Felipe Cuellar Rosero, 1083929142, ingeniería industrial
 
 Veronica Julieth Gomez Cordoba, 1004214754, ingeniería indutrial
 
-https://youtu.be/x-jTQoGYujo
+https://youtu.be/x-jTQoGYujo -> Entrega 02 pre procesado
+https://www.youtube.com/watch?v=xOwRDfiaWsc -> Entrega final
